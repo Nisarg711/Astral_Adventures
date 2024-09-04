@@ -1192,6 +1192,9 @@ strong {
   font-weight: 700
 }
 
+.rs-dropdown-menu li{
+  width: auto;
+}
 sub,
 sup {
   font-size: 75%;
